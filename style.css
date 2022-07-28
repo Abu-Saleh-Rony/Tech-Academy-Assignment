@@ -15,3 +15,11 @@
     font-size: 60px;
     font-weight: 700;
 }
+
+.button-bg {
+    background-color: white;
+}
+
+.text-color {
+    color: aliceblue;
+}
