@@ -1,0 +1,17 @@
+.carousel-caption {
+    top: 30%;
+    bottom: auto;
+}
+
+.carousel-item img {
+    height: 600px;
+}
+
+.image-cover {
+    filter: brightness(50%);
+}
+
+.start-text {
+    font-size: 60px;
+    font-weight: 700;
+}
